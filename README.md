@@ -1,2 +1,0 @@
-platform_contacts-common
-========================
